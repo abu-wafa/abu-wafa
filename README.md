@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on:<br>Building React projects and improving my code architecture using clean, scalable, and modular patterns.<br><br>👯 Looking to collaborate on:<br>JavaScript/React open-source projects, UI components, or anything that helps sharpen frontend skills.<br><br>🤝 Looking for help with:<br>System Design concepts and how to apply them when scaling real-world apps.<br><br>🌱 Currently learning:<br>Advanced React, System Design, and backend fundamentals to grow into a full-stack developer.<br><br>💬 Ask me about:<br>React, JavaScript, Tailwind and UI/UX for web apps<br><br>⚡ Fun fact:<br>I love breaking things on purpose just to learn how to fix them!
+🔭 Currently working on:<br>Building new projects and improving my code architecture using clean, scalable, and modular patterns.<br><br>👯 Looking to collaborate on:<br>JavaScript/React open-source projects, UI components, or anything that helps sharpen frontend skills.<br><br>🤝 Looking for help with:<br>System Design concepts and how to apply them when scaling real-world apps.<br><br>🌱 Currently learning:<br>Advanced React, System Design, and backend fundamentals to grow into a full-stack developer.<br><br>💬 Ask me about:<br>React, JavaScript, Tailwind and UI/UX for web apps<br><br>⚡ Fun fact:<br>I love breaking things on purpose just to learn how to fix them!
 
 
 ## 🌐 Socials:
